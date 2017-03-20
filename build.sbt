@@ -21,5 +21,6 @@ libraryDependencies += "org.apache.httpcomponents" % "httpclient" % "4.5.2"
 
 libraryDependencies += "io.rest-assured" % "scala-support" % "3.0.2"
 
+libraryDependencies += "com.itv" %% "scalapact-scalatest" % "2.1.2"
 
 fork in run := true
